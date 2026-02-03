@@ -7,7 +7,7 @@
         "com.diet_list.full_access.month",
         "menu_full"
     ],
-    "menu_included": false,
+    "menu_included": true,
     "all_recipes_included": true,
     "show_onboarding": true
 }
