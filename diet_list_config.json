@@ -1,4 +1,4 @@
-[{
+{
     "app_id": "diet_list",
     "paywall_dismissible": true,
     "best_price_product_id": "menu_full",
@@ -7,4 +7,4 @@
         "com.diet_list.full_access.month",
         "menu_full"
     ]
-}]
+}
