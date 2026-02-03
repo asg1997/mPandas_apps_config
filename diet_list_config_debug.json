@@ -7,6 +7,6 @@
         "com.diet_list.full_access.month",
         "menu_full"
     ],
-    "menu_open": false,
-    "products_open": false
+    "menu_included": false,
+    "all_recipes_included": false
 }
