@@ -6,5 +6,8 @@
         "com.diet_list.full_access.week",
         "com.diet_list.full_access.month",
         "menu_full"
-    ]
+    ],
+    "menu_included": false,
+    "all_recipes_included": false,
+    "show_onboarding": true
 }
