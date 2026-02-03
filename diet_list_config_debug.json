@@ -1,6 +1,6 @@
 {
     "app_id": "diet_list",
-    "paywall_dismissible": true,
+    "paywall_dismissible": false,
     "best_price_product_id": "menu_full",
     "products_ids": [
         "com.diet_list.full_access.week",
