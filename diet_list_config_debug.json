@@ -8,5 +8,6 @@
         "menu_full"
     ],
     "menu_included": false,
-    "all_recipes_included": false
+    "all_recipes_included": false,
+    "show_onboarding": true
 }
