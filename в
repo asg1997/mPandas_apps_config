@@ -1,0 +1,10 @@
+{
+    "app_id": "diet_list",
+    "paywall_dismissible": true,
+    "best_price_product_id": "menu_full",
+    "products_ids": [
+        "com.diet_list.full_access.week",
+        "com.diet_list.full_access.month",
+        "menu_full"
+    ]
+}
