@@ -6,5 +6,5 @@
     "products_ids": [
         "com.never_have_i_ever.lifetime"
     ],
-    "onboarding_enabled": true
+    "onboarding_enabled": false
 }
