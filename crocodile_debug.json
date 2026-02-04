@@ -1,0 +1,10 @@
+{
+    "app_id": "crocodile",
+    "paywall_dismissible": true,
+    "best_price_product_id":"com.crocodile_lifetime",
+    "products_ids": [
+      "com.crocodile_lifetime",
+      "com.crocodile_premium_week",
+      "com.crocodile_premium_month"
+    ]
+}
