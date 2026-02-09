@@ -1,0 +1,10 @@
+{
+    "app_id": "for_two",
+    "paywall_dismissible": true,
+    "best_price_product_id": "com.for_two_premium",
+    "products_ids": [
+        "com.for_two_premium",
+"com.forTwoPremium.1week",
+"com.forTwoPremium.1month"
+    ]
+}
