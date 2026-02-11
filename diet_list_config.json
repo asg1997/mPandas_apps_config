@@ -3,7 +3,8 @@
     "paywall_dismissible": false,
     "best_price_product_id": "menu_full",
     "products_ids": [
-        "menu_full"
+        "menu_full",
+        "com.diet_list.full_access.week"
     ],
     "menu_included": false,
     "all_recipes_included": false,
