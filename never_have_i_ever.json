@@ -7,5 +7,6 @@
         "com.never_have_i_ever.1week",
         "com.never_have_i_ever.lifetime"
     ],
-    "onboarding_enabled": true
+    "onboarding_enabled": true,
+    "limitted_questions": true
 }
