@@ -8,5 +8,5 @@
         "com.never_have_i_ever.lifetime"
     ],
     "onboarding_enabled": true,
-    "limitted_questions": true
+    "limitted_questions": 20
 }
