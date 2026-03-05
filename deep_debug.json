@@ -1,0 +1,10 @@
+{
+    "app_id": "deep",
+    "paywall_dismissible": true,
+    "best_price_product_id": "com.deep_premium",
+    "products_ids": [
+        "com.deep_premium",
+"com.deep_weekly",
+"com.deep_month"
+    ]
+}
