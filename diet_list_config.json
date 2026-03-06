@@ -10,5 +10,6 @@
     "all_recipes_included": false,
     "show_onboarding": true,
     "random_recipe_included": true,
-    "favorites_included": true
+    "favorites_included": true,
+    "onb_variant": 1
 }
