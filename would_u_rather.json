@@ -1,0 +1,10 @@
+{
+    "app_id": "would_u_rather",
+    "paywall_dismissible": true,
+    "best_price_product_id": "com_would_you_rather_premium",
+    "products_ids": [
+        "com_would_you_rather_premium",
+"com.would_you_rather_premium_week",
+"com.would_you_rather_premium_month"
+    ]
+}
