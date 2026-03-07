@@ -1,7 +1,7 @@
 {
     "app_id": "my_alias",
     "paywall_dismissible": true,
-    "best_price_product_id": "com.my_alias_premium",
+    "best_price_product_id": "com.my_alias_premium_week",
     "products_ids": [
         "com.my_alias_premium",
 "com.my_alias_premium_week",
