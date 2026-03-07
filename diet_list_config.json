@@ -1,7 +1,7 @@
 {
     "app_id": "diet_list",
     "paywall_dismissible": false,
-    "best_price_product_id": "menu_full",
+    "best_price_product_id": "com.diet_list.full_access.month",
     "products_ids": [
         "menu_full",
         "com.diet_list.full_access.month",
