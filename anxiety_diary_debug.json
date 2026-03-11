@@ -1,0 +1,10 @@
+{
+    "app_id": "anxiety_diary",
+    "paywall_dismissible": true,
+    "best_price_product_id":"com.anxietyDiary.month",
+    "products_ids": [
+      "com.anxietyDiary.week",
+    "com.anxietyDiary.month",
+    "com.anxietyDiary.year"
+    ]
+}
