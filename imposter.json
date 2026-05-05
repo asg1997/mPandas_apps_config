@@ -1,0 +1,9 @@
+{
+    "app_id": "imposter",
+    "paywall_dismissible": true,
+    "best_price_product_id":"com.imposter_premium_week",
+    "products_ids": [
+      "com.imposter_premium",
+      "com.imposter_premium_week"
+    ]
+}
