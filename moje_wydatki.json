@@ -1,0 +1,9 @@
+{
+    "app_id": "moje_wydatki",
+    "paywall_dismissible": false,
+    "best_price_product_id": "com.moje_wydatki_premium",
+    "products_ids": [
+        "com.moje_wydatki_premium",
+        "com.moje_wydatki_week"
+    ]
+}
