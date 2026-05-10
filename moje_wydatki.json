@@ -1,6 +1,6 @@
 {
     "app_id": "moje_wydatki",
-    "paywall_dismissible": ture,
+    "paywall_dismissible": true,
     "best_price_product_id": "com.moje_wydatki_premium",
     "products_ids": [
         "com.moje_wydatki_premium",
