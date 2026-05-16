@@ -1,0 +1,9 @@
+{
+    "app_id": "dla_par",
+    "paywall_dismissible": true,
+    "best_price_product_id": "com.dla_par_week",
+    "products_ids": [
+        "com.dla_par_premium",
+"com.dla_par_week"
+    ]
+}
