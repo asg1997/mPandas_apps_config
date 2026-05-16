@@ -1,0 +1,9 @@
+{
+    "app_id": "para",
+    "paywall_dismissible": true,
+    "best_price_product_id": "com.para_premium_week",
+    "products_ids": [
+        "com.para_premium",
+"com.para_premium_week"
+    ]
+}
