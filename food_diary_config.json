@@ -1,5 +1,5 @@
 {
-    "app_id": "anxiety_diary",
+    "app_id": "food_diary",
     "paywall_dismissible": true,
     "best_price_product_id":"com.food-diary-app",
     "products_ids": [
