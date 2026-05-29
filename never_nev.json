@@ -1,0 +1,9 @@
+{
+    "app_id": "never_new",
+    "paywall_dismissible": true,
+    "best_price_product_id": "com.never_new_premium",
+    "products_ids": [
+        "com.never_new_premium",
+"com.never_new_premium_week"
+    ]
+}
