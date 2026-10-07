@@ -1,6 +1,7 @@
 {
     "app_id": "truth_or_dare",
     "paywall_dismissible": true,
+    "show_rating_on_launch": true,
     "best_price_product_id": "com.truthOrDareApp.1week",
     "products_ids": [
         "com.truthOrDareApp.lifetime",
