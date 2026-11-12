@@ -9,5 +9,6 @@
     ],
     "onboarding_enabled": true,
     "show_rating_on_launch": false,
-    "limitted_questions": 20
+    "limitted_questions": 20,
+    "all_free_categories_avaliable": false
 }
