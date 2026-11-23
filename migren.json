@@ -1,9 +1,8 @@
 {
     "app_id": "migren",
     "paywall_dismissible": true, 
-    "best_price_product_id": "com.migren_premium_week",
+    "best_price_product_id": "com.migren_premium",
     "products_ids": [
-        "com.migren_premium",
-        "com.migren_premium_week"
+        "com.migren_premium"
     ]
 }
