@@ -2,6 +2,7 @@
     "app_id": "crocodile",
     "paywall_dismissible": true,
     "show_onboarding_on_launch": true,
+    "business_model" : "A",
     "best_price_product_id":"com.crocodile_premium_week",
     "products_ids": [
       "com.crocodile_lifetime",
